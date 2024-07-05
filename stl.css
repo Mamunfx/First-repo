@@ -30,3 +30,6 @@ p , h2{
 .spn{
     border: 2px solid black;
 }
+form>label{
+    display: block;
+}
