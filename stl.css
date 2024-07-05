@@ -2,8 +2,13 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background-color: rgb(241, 52, 124);
+}
 h1{
-    background-color: aquamarine;
+    text-decoration: overline;
+    text-align: center;
+    padding-top: 5%;
 }
 ul {
     padding-left: 66%;
@@ -12,7 +17,16 @@ ul {
 
 li {
     display: inline-block;
-    padding: 5%;
-    font-size: 20px;
+    padding: 4%;
+    font-size: 25px;
     padding-right: 7%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p , h2{
+    background-color: aqua;
+    
+}
+.spn{
+    border: 2px solid black;
 }
