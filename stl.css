@@ -5,3 +5,14 @@
 h1{
     background-color: aquamarine;
 }
+ul {
+    padding-left: 66%;
+    background: beige;
+}
+
+li {
+    display: inline-block;
+    padding: 5%;
+    font-size: 20px;
+    padding-right: 7%;
+}
