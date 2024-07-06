@@ -33,3 +33,6 @@ p , h2{
 form>label{
     display: block;
 }
+h1{
+    color: blueviolet;
+}
